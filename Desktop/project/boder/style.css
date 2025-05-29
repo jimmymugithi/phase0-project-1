@@ -1,69 +1,71 @@
-html{
-     background-color:#c75606;
-        color: white;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-    }
-    .logo{
-        margin-right: 100%;
-    }
-   
-#call{
-    border: 1px solid white;
-    border-radius: 50px;
-    background-color: white;
-    color: #e27527;
-    max-width: 220px;
-    padding: 10px;
-    margin-left: auto;
-    margin-top: -9%;
-    font-size: small;
+html {
+  background-color: #c75606;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-#upper{
-     color: white;
-    font-size: xx-large;
-    font-weight:bolder;
+.logo {
+  margin-right: 100%;
+  margin-bottom: 90 px;
+  width: 50px;
 }
 
-#mixed{
-    color: white;
-    font-size: large;
-    font-weight: bold;
+#call {
+  border: 1px solid white;
+  border-radius: 50px;
+  background-color: white;
+  color: #e27527;
+  max-width: 220px;
+  padding: 10px;
+  margin-left: auto;
+  margin-top: -9%;
+  font-size: small;
+}
+#upper {
+  color: white;
+  font-size: xx-large;
+  font-weight: bolder;
 }
 
-img{
-    width: 100px;
-    height: 100%;
-    display: flex;
-    margin-left: 70%;
-    border-radius: 20px 20px 20px 20px;
-    width: 120px;
-    height: 100px;
+#mixed {
+  color: white;
+  font-size: large;
+  font-weight: bold;
 }
-#who{
-    font-size: larger;
-    font-weight: bold;
-}
-#about{
-    font-size:small;
-    
-    color: white;
 
+img {
+  width: 100px;
+  height: 100%;
+  display: flex;
+  margin-left: 70%;
+  border-radius: 10px 15px 15px 15px;
+  width: 120px;
+  height: 100px;
 }
-.duty{
-    border:9px solid white;
-    border-radius: 50px;
-    display: block;
-    text-align: center;
+#who {
+  font-size: larger;
+  font-weight: bold;
 }
-#details{
-    margin-left: 20%;
-}
-#detail{
-    margin-left: 10%;
-}
-.info{
-    margin-right: 88%;
-    font-size: small;
+#about {
+  font-size: small;
 
+  color: white;
+}
+.duty {
+  border: 9px solid white;
+  border-radius: 50px;
+  display: block;
+  text-align: center;
+}
+#details {
+  margin-left: 20%;
+}
+#detail {
+  margin-left: 10%;
+}
+.info {
+  margin-right: 88%;
+  font-size: small;
+}
+@media (body) {
+  background-color: ;
 }
