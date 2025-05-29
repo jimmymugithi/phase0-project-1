@@ -1,0 +1,69 @@
+html{
+     background-color:#c75606;
+        color: white;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .logo{
+        margin-right: 100%;
+    }
+   
+#call{
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: white;
+    color: #e27527;
+    max-width: 220px;
+    padding: 10px;
+    margin-left: auto;
+    margin-top: -9%;
+    font-size: small;
+}
+#upper{
+     color: white;
+    font-size: xx-large;
+    font-weight:bolder;
+}
+
+#mixed{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+img{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    margin-left: 70%;
+    border-radius: 20px 20px 20px 20px;
+    width: 120px;
+    height: 100px;
+}
+#who{
+    font-size: larger;
+    font-weight: bold;
+}
+#about{
+    font-size:small;
+    
+    color: white;
+
+}
+.duty{
+    border:9px solid white;
+    border-radius: 50px;
+    display: block;
+    text-align: center;
+}
+#details{
+    margin-left: 20%;
+}
+#detail{
+    margin-left: 10%;
+}
+.info{
+    margin-right: 88%;
+    font-size: small;
+
+}
